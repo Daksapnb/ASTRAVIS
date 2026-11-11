@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AetherMMS v1.0
 ====================================================
 
@@ -238,3 +239,7 @@ results; it is provided as an optional graphical aid for the user. The Python
 core described above remains the reference implementation.
 
 
+=======
+# ASTRAVIS
+ASTRAVIS dirancang dengan tiga kemampuan pengembangan utama: Environmental Scenario Analysis, untuk mensimulasikan variasi geometri bangunan; Robust Survey Window Optimization, untuk membandingkan kestabilan rekomendasi pada beberapa skenario; serta Field Observation Validation, untuk mengevaluasi kesesuaian prediksi dengan pengamatan GNSS nyata. 
+>>>>>>> 690e30e6ad44dd6289b2b0098d4f4e783ed5284b
